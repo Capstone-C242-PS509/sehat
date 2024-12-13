@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SEHAT</string>
+
+    <string-array name="moods">
+        <item>Choose Your Mood</item>
+        <item>Happy</item>
+        <item>Sad</item>
+        <item>Calm</item>
+        <item>Angry</item>
+    </string-array>
+</resources>
